@@ -55,3 +55,4 @@ install_hooks
 register_ratos_homing
 symlink_klippy_extensions
 symlink_moonraker_extensions
+update_beacon_fw
